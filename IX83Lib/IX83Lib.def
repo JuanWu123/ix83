@@ -1,0 +1,4 @@
+LIBRARY "IX83Lib"
+EXPORTS
+sendCommand @1
+closeCommand @2
